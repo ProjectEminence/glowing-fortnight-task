@@ -1,4 +1,4 @@
-# TaskTracker
+# TaskTracker 
 
 A comprehensive task tracking web application built with Flask and SQLAlchemy that allows teams to manage tasks, assign users, and track progress efficiently.
 
